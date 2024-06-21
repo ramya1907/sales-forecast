@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to forecast future sales trends and demand for products using historical sales data. The dataset contains information about transactions, including InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
+Through Linear Regression, this project aims to forecast future sales trends and demand for products using historical sales data. The dataset contains information about transactions, including InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
 
 ## Dataset
 
